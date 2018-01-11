@@ -1,0 +1,27 @@
+BOM, fC Mark I - Fan Controller, Bill of materials
+
+- Aluminium case
+  - Quantity: 1
+  - Unit: each
+  - ID: 381052521454
+  - Bought: 2014-11-18
+  - Delivered: 2015-mm-aa
+  - Charge: USD 0.69147 = USD 0.65 + 0.04147 USD (6.38% IOF)
+
+- Relay
+  - Quantity: 1
+  - Unit: each
+  - ID: 221822261721
+  - Bought: 2015-12-05
+  - Delivered: 2016-mm-aa
+  - Charge: USD 1.0638 = USD 1.00 + 0.0638 USD (6.38% IOF)
+
+- Arduino Micro
+  - Quantity: 1
+  - Unit: each
+  - ID: 271969907729
+  - Bought: 2016-06-21
+  - Delivered: 2016-mm-dd
+  - Charge: USD 9.584663537 = USD 9.009836 (GBP 6.67) + 0.574827537 USD (6.38% IOF)
+
+Total cost: $11.339933537
