@@ -1,11 +1,16 @@
 # fC Mark I - Fan Controller
 
+![alt text](Documents/fC.png "fC")
+
 ## Mechanics
+![alt text](Documents/Case.png "Case")
 
 ## Electronics
+![alt text](Documents/Electronics.png "Case")
 
 ### Arduino
 Arduino Micro
+![alt text](Documents/Arduino_Micro.png "Case")
 
 #### Pin designation table
  id | pin |   type    | direction |               description
@@ -30,6 +35,12 @@ Arduino Micro
  17 |   3 | -         | -         | -
  18 |   4 | -         | -         | -
  19 |   5 | -         | -         | -
+
+
+
+![alt text](Documents/Relay_module.png "Case")
+
+#### ATmega 32U4-Arduino Pin Mapping
 
 #### Diagram
 
