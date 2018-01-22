@@ -23,9 +23,9 @@ void CommandM100(char letter = 0) {
   if (letter == 'M' or letter == 0) {
     echoln(F("M15\tSystem information"));
     echoln(F("M71\tSet temperature thresholds"));
-    // echoln(F("M80\tPower on"));
-    // echoln(F("M81\tPower off"));
-    echoln(F("M82\tPower status"));
+    // echoln(F("M80\tRelay on"));
+    // echoln(F("M81\tRelay off"));
+    echoln(F("M82\tRelay status"));
     echoln(F("M89\tMemory information"));
     echoln(F("M91\tTemperature information"));
     echoln(F("M92\tSystem version"));
@@ -160,16 +160,10 @@ bool CommandM91() {
          temperature.valueRead() +
          temperature.unitRead());
   if (debug_mode) {
-    echoln("  Warning low: " +
-           String(temperature.min_warningRead()) +
-           temperature.unitRead() + "\n" +
-           "  Critical low: " +
-           String(temperature.min_criticalRead()) +
-           temperature.unitRead() + "\n" +
-           "  Warning high: " +
+    echoln("  Warning: " +
            String(temperature.max_warningRead()) +
            temperature.unitRead() + "\n" +
-           "  Critical high: " +
+           "  Critical: " +
            String(temperature.max_criticalRead()) +
            temperature.unitRead());
   }

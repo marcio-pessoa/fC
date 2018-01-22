@@ -53,7 +53,6 @@ void setup() {
   CommandM92();  // System information
   // Relay
   relay.nameWrite("Relay");
-  digitalWrite(19, HIGH);
   // Temperature
   lm35.type(TMP36);
   lm35.attach(lm35_pin);
