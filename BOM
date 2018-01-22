@@ -24,7 +24,7 @@ BOM, fC Mark I - Fan Controller, Bill of materials
   - Delivered: 2016-mm-dd
   - Charge: USD 1.0638 = USD 1.00 + USD 0.0638 (6.38% IOF)
 
-- LM35
+- TMP36
   - Quantity: 1
   - Unit: each
   - ID: 1331362273007
@@ -38,7 +38,7 @@ BOM, fC Mark I - Fan Controller, Bill of materials
   - ID: -
   - Bought: 2015-mm-dd
   - Delivered: 2015-mm-dd
-  - Charge: USD 1.00
+  - Charge: USD 0.20
 
 - PCB
   - Quantity: 1
@@ -48,4 +48,4 @@ BOM, fC Mark I - Fan Controller, Bill of materials
   - Delivered: 2015-mm-dd
   - Charge: USD 1.00
 
-Total cost: $15.781354537
+Total cost: $14.981354537
