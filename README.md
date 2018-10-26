@@ -1,5 +1,9 @@
 # fC Mark I - Fan Controller
 
+[Change log](CHANGELOG.md)
+
+[Bill of materials](BOM.md)
+
 ![alt text](Documents/fC_photo.jpg "fC")
 
 ![alt text](Documents/fC.png "fC")
@@ -50,7 +54,7 @@ Arduino Micro
 
 ## Software
 
-G-Code commands.
+Use a terminal program at *9600* baud to connect and use G-Code commands.
 
 ### M15 - System information
 

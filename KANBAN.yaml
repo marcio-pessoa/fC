@@ -1,0 +1,68 @@
+KANBAN, fC Mark I - Fan Controller, KANBAN file
+
+BACKLOG
++ Mechanics
++ Electronics
++ Software
+
+TODO
++ Mechanics
++ Electronics
++ Software
+
+IN PROGRESS
++ Mechanics
++ Electronics
++ Software
+  * Firmware
+    * Command
+      * M71
+        * Bug #1: This command is not saving configurations to NVRAM.
+
+TESTING
++ Mechanics
++ Electronics
++ Software
+  * Firmware
+    * Command
+      * M91
+        * Bug #2: This command is displaying minimum temperature thresholds.
+
+DONE
++ Mechanics
+  * Case
+    * USB interface
+      * Cut
+    * Temperature sensor
+      * Cut
+      * Fix
+    * Relay
+      * Cut
+  * Main board
+    * Cut
++ Electronics
+  * Main board
+    * Design
+    * Wiring
+    * Arduino
+      * Connector
+    * Relay
+      * Connector
+    * Temperature sensor
+      * Wiring
++ Software
+  * Firmware
+    * Command
+      * M15
+      * M71
+      * M82
+      * M89
+      * M91
+      * M92
+      * M100
+      * M111
+
+WON'T DO
++ Mechanics
++ Electronics
++ Software

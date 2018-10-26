@@ -1,5 +1,5 @@
-# fC Mark I - Fan Controller
-## BOM (Bill of materials)
+# BOM
+fC Mark I - Fan Controller, Bill of materials
 
 | Quant | Description     | ID            | Bought     | Delivered  | Unit | Charge    | Taxes (USD)      | Cost (USD) |
 |-------|-----------------|---------------|------------|------------|------|-----------|------------------|------------|
