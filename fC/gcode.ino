@@ -193,6 +193,9 @@ void GCodeParse() {
         case 81:
           retval = CommandM81();
           break;
+        case 82:
+          retval = CommandM82();
+          break;
         case 15:
           CommandM15();
           break;
