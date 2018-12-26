@@ -1,1 +1,0 @@
-/home/mex/Development/Arduino/libraries/Temperature/Temperature.h

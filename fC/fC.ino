@@ -8,14 +8,14 @@
  */
 
 #include <Arduino.h>      // Arduino - Main library
-#include "Project.h"      // Sciemon - Basic project definitions
-#include "Timer.h"        // Sciemon - Timer library
-#include "SigGen.h"       // Sciemon - Signal Generator
-#include "Alarm.h"        // Sciemon - Manage alarms
-#include "Switch.h"       // Sciemon - Switch manipulation
-#include "Temperature.h"  // Sciemon - Temperature Sensors
+#include <Project.h>      // Sciemon - Basic project definitions
+#include <Timer.h>        // Sciemon - Timer library
+#include <SigGen.h>       // Sciemon - Signal Generator
+#include <Alarm.h>        // Sciemon - Manage alarms
+#include <Switch.h>       // Sciemon - Switch manipulation
+#include <Temperature.h>  // Sciemon - Temperature Sensors
 #include "config.h"       // Sciemon - Configuration
-#include "MemoryFree.h"   // 
+#include <MemoryFree.h>   // 
 
 // Project definitions
 Project fc("fC",  // Platform
